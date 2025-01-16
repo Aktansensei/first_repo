@@ -1,5 +1,6 @@
 def new_function():
-    pass
+    print('boo')
+
 
 def fibonacci1(n):
     res = [0,1]
