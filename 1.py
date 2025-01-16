@@ -1,5 +1,5 @@
 def new_function():
-    print('boo')
+    print('changed by lab2')
 
 
 def fibonacci1(n):
